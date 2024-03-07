@@ -1,0 +1,20 @@
+1.
+
+Paso 1: Ingresar cta. de usuario en la plataforma Moodle
+Paso 2: Dir. a la sección del tema del curso específico donde se desea verificar si ha subido un archivo.
+Paso 3: Loc. la actividad de Moodle donde suele subir archivos (tarea, foro, recurso de "Subir archivo").
+Paso 4: Expl. las opciones disponibles para revisar el historial de subidas en esa actividad.
+Paso 5: Utiliza las opciones de búsqueda o el historial para encontrar el archivo en cuestión (nombre de archivo, fecha de subida).
+Paso 6: Compr. si el archivo que deseas subir ya está presente en el historial de subidas (si encuentras el archivo, significa que ya ha sido subido).
+Paso 7: Dependiendo de lo que se necesite, puedes decidir si necesitas subir el archivo nuevamente.
+Paso 8: Fin del algoritmo.
+
+2.
+
+Paso 1: Ident. y nomb. los 4 numeros que se desea sumar y promediar.
+Paso 2: Sumar los 4 numeros para obtener un resultado.
+Paso 3: Detr. cuántos números estás sumando (en este caso, son 4)
+Paso 4: Dividir la suma total obtenida en el paso 2 por el número de elementos del conjunto (en este caso, 4)
+Paso 5: El resultado obtenido en el paso 4 es el promedio de los 4 números.
+Paso 6: Decidir si necesitas almacenar o guardar el resultado en algún lugar para su uso posterior.
+Paso 7: Fin del algoritmo

@@ -1,0 +1,21 @@
+Ejercicio 1
+
+
+Paso 1: Leer un num. "A" desde el usr.
+Paso 2: Verificar si "A" es divisible por 2.
+Paso 3: Si "A" es divisible por 2 sin dejar residuo, entonces es par.
+Paso 4: Si "A" no es divisible por 2 sin dejar residuo, entonces es impar.
+Paso 5: Si "A" es par, es. "A es par".
+Paso 6: Si "A" es impar, es. "A es impar".
+Paso 7: Fin del algoritmo.
+
+Ejercicio 2
+
+
+Paso 1: Leer dos num. enteros,"a" y "b", desde el usr.
+Paso 2: Verificar si "a" es mayor que "b".
+Paso 3: Si "a" es mayor que "b", resaltar "a".
+Paso 4: Si "b" es mayor que "a", resaltar "b".
+Paso 5: Si "a" y "b" son iguales, no resaltar ninguno de los dos.
+Paso 6: Escribir el número resaltado (si existe).
+Paso 7: Fin del algoritmo.
